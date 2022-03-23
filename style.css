@@ -1,0 +1,27 @@
+
+ body{
+     font-family: 'Times New Roman', Times, serif;
+     font-style:oblique;
+ }
+ 
+ h1{
+    color:blueviolet
+
+ }
+
+ h2{
+     color:blueviolet
+ }
+ div{
+     padding: auto;
+     margin: auto;
+ }
+
+ label{
+     margin: 15 pix;
+     padding: auto;
+ }
+
+ table{
+    padding-top: 15px;
+ }
